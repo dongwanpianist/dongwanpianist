@@ -46,3 +46,5 @@
 장난감: ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white) (언어: ![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white))
 
 봉사: 💖자원봉사 1000 시간 이상(1365 & VMS 합산), 🩸 혈소판혈장 헌혈 60회 이상
+
+본캐 프로필: [dongwanpianist.com](https://dongwanpianist.com, "Official website")
