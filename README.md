@@ -1,4 +1,4 @@
-## art[] { music, literature, engineering, design }
+## dongwan.art[] { music, literature, engineering, design }
 #### 공부하고 연구하고 발전하는 사람들을 좋아합니다.<br>타인의 연구를 존중하는 사람들을 좋아합니다.<br>사서 고생하는 사람들을 응원합니다.<br>자기개발을 하지 않고 제 자리에 머무는 사람을 싫어합니다.
 
 가지고 노는 Arduino Mega의 코드 관리를 위해 GitHub를 사용중입니다.<br>(상용화 및 상업화 가능성이 있어 해당 저장소는 공개하지 않습니다.)<br>
