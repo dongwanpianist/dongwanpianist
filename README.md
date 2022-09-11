@@ -2,7 +2,7 @@
 #### music, engineering, design
 #### 공부하고 연구하는 사람들을 좋아합니다.<br>타인의 연구를 존중하는 사람들을 좋아합니다.<br>자기발전을 하지 않고 제 자리에 머무는 사람을 싫어합니다.
 
-사람을 각종 "증"으로 소개하는 것은 크나큰 선입견을 주며 개인차를 배제하는 행위이기 때문에 몹시 자제해야 하지만,
+사람의 소개를 각종 "증"으로 대신하는 것은 크나큰 선입견을 주며 개인차를 배제하는 행위이기 때문에 몹시 자제해야 하지만,
 그럼에도 불구하고 학교나 자격증을 기준으로 사람을 가늠해야만 말길을 열어주는 사람과 말을 하기 위해서 기재합니다.
 
 ### 🎓 ️교육
@@ -38,7 +38,7 @@
 | **화물운송종사자격** | 물건 운반하기 |
 
 ### 🧬 기타
-언어: 술술- 🇰🇷 🇬🇧 / 더듬- 🇫🇷 🇮🇹 🇪🇸 / 어버버- 🇩🇪 (유럽여행 중 국가에 따라 말하는 언어를 바꿀 수 있습니다. 라틴 알파벳을 사용하는 언어들을 좋아합니다. 한자를 싫어하지만 한자를 차용한 한국어는 좋아합니다.)
+언어: 술술- 🇰🇷 🇬🇧 / 더듬- 🇫🇷 🇮🇹 🇪🇸 / 어버버- 🇩🇪
 
 멀티미디어: ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Audition-9999FF.svg?logo=Adobe%20Audition&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white) (![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white) 외주 제작경험 다수)
 
@@ -46,4 +46,4 @@
 
 봉사: 💖자원봉사 1000 시간 이상(1365 & VMS 합산), 🩸 혈소판혈장 헌혈 60회 이상
 
-성격: Introvert (타인에게 기를 빨리며, 혼자서 생각하는 시간을 즐깁니다.)
+성격: Introvert
