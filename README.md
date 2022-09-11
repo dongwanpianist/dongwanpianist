@@ -4,8 +4,7 @@
 
 가지고 노는 Arduino Mega의 코드 관리를 위해 GitHub를 사용중입니다.<br>(상용화 및 상업화 가능성이 있어 공개하지 않습니다. 비공개 저장소 활발)<br>
 사람의 소개를 각종 "증"으로 대신하는 것은 크나큰 선입견을 주며 개인차를 배제하는 행위이기 때문에 몹시 자제해야 하지만,
-그럼에도 불구하고 학교나 자격증을 기준으로 사람을 가늠해야만 말길을 열어주는 사람과 말을 하기 위해서 기재합니다.
-마치 체격이 전부는 아니지만 체격으로 사람을 재며 받들거나 무시하는 사람에게도 맞서 대화를 하기 위해 체형관리를 하는 것처럼요.
+그럼에도 불구하고 학교나 자격증을 기준으로 사람을 가늠해야만 말길을 열어주는 유형의 사람과도 대화를 해야 하기 때문에 기재합니다.
 
 ### 🎓 ️교육
 
@@ -16,10 +15,9 @@
 | 2007 - 2011 | **Seoul National University** | **Bachelor of Music** | Piano Performance |
 | 2011 - 2013 | **University of Rochester<br>(Eastman School of Music)** | **Master of Music** | Piano Performance and Literature |
 | 2013 - 2015 | **Cleveland Institute of Music** | **Artist Diploma**<br>*(non-degree)* | Piano Performance<br>/ Collaborative Piano (double)|
-| 2015 - (..) | **Northwestern University<br>(Bienen School of Music)** | **Doctor of Musical Arts** | Piano Performance |
+| 2015 - (재학중) | **Northwestern University<br>(Bienen School of Music)** | **Doctor of Musical Arts** | Piano Performance |
 | 2019 - 2022 | **Korea National Open University** | **Bachelor of Arts** | French Language and Culture<br>/ English Language and Literature (double)|
-| 2022 - (..) | **Korea National Open University** | **Bachelor of Education** | Education |
-
+| 2022 - (재학중) | **Korea National Open University** | **Bachelor of Education** | Education |
 
 ### 🏆 국가기술자격
 
@@ -40,7 +38,7 @@
 | **화물운송종사자격** | 🚚 물건 운반하기 |
 
 ### 🧬 기타
-언어: 술술- 🇰🇷 🇬🇧 / 더듬- 🇫🇷 🇮🇹 🇪🇸 / 어버버- 🇩🇪
+언어: 술술- 🇰🇷 🇬🇧 / 더듬- 🇫🇷 🇮🇹 🇪🇸 / 어버버- 🇩🇪 🇵🇱
 
 멀티미디어: ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Audition-9999FF.svg?logo=Adobe%20Audition&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white) (![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white) 외주 제작경험 다수)
 
