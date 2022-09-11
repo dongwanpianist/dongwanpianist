@@ -34,10 +34,10 @@
 | **컴퓨터그래픽스운용기능사** | Adobe Creative (![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white), ![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?logo=adobe%20illustrator&logoColor=white), ![InDesign](https://img.shields.io/badge/InDesign-49021F?logo=adobeindesign&logoColor=white)) for posters |
 | **전자출판기능사** | Adobe Creative (![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white), ![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?logo=adobe%20illustrator&logoColor=white), ![InDesign](https://img.shields.io/badge/InDesign-49021F?logo=adobeindesign&logoColor=white)) for e-publications |
 | **롤러운전기능사** | 성가신 존재를 롤러(중장비)로 납작하게 밀어버리기 |
-| **조주기능사** | 알코올이 함유된 음료를 붓고 말고 마시기 |
-| **택시운전자격** | 앉은 사람 운반하기 |
-| **버스운전자격** | 앉고 선 사람 운반하기 |
-| **화물운송종사자격** | 물건 운반하기 |
+| **조주기능사** | 🍸 알코올이 함유된 음료를 붓고 말고 마시기 |
+| **택시운전자격** | 🚖 앉은 사람 운반하기 |
+| **버스운전자격** | 🚌 앉고 선 사람 운반하기 |
+| **화물운송종사자격** | 🚚 물건 운반하기 |
 
 ### 🧬 기타
 언어: 술술- 🇰🇷 🇬🇧 / 더듬- 🇫🇷 🇮🇹 🇪🇸 / 어버버- 🇩🇪
