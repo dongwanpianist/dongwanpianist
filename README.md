@@ -1,9 +1,9 @@
-## dongwan.art[] { music, literature, engineering, design }
+## art[4] { music, literature, engineering, design }
 #### 공부하고 연구하고 발전하는 사람들을 좋아합니다.<br>타인의 연구를 존중하는 사람들을 좋아합니다.<br>사서 고생하는 사람들을 응원합니다.<br>자기개발을 하지 않고 제 자리에 머무는 사람을 싫어합니다.
 
 가지고 노는 Arduino Mega의 코드 관리를 위해 GitHub를 사용중입니다.<br>(상용화 및 상업화 가능성이 있어 해당 저장소는 공개하지 않습니다.)<br>
 사람의 소개를 각종 "증"으로 대신하는 것은 크나큰 선입견을 주며 개인차를 배제하는 행위이기 때문에 몹시 자제해야 하지만,
-그럼에도 불구하고 학교나 자격증을 기준으로 사람을 가늠해야만 말길을 열어주는 유형의 사람과도 대화를 해야 하기 때문에 기재합니다.
+그럼에도 불구하고 학교나 자격증을 기준으로 사람을 가늠해야만 말길을 열어주는 유형의 사람과도 대화를 해야 하기 때문에 기재합니다. 아직은 "활동"보다 "증"이 더 많기도 합니다.
 
 ### 🎓 ️교육
 
@@ -46,7 +46,7 @@
 
 멀티미디어: ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Audition-9999FF.svg?logo=Adobe%20Audition&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white) (![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white) 외주 제작경험 다수)
 
-장난감: ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white) (언어: ![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white))
+장난감: ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white) (언어: ![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white)) 그리고 빵판(Breadboard)
 
 봉사: 💖자원봉사 1000 시간 이상(1365 & VMS 합산), 🩸 혈소판혈장 헌혈 60회 이상
 
