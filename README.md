@@ -21,6 +21,7 @@
 ### 🏆 국가기술자격
 
 ###### (대충 자격증콜렉터라는 내용의 표)
+###### 본캐가 본업을 뛰는 데 아무 짝에도 쓸모 없지만, 자기만족으로 한계를 뚫고 있으며 실제로 세상을 바라보는 창이 넓어지고 있습니다.
 
 | 자격 | 내용 |
 | ------- | ------- |
@@ -35,6 +36,9 @@
 | **택시운전자격**⋆ ⋆⋆ | 앉은 사람 운반하기 |
 | **버스운전자격**⋆ | 앉거나 선 사람 운반하기 |
 | **화물운송종사자격**⋆ | 물건 운반하기 |
+| **비서 1급** |  비서실무론, 경영이론, 사무정보관리 |
+| **컴퓨터활용능력 1급** | ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white), ![Access](https://img.shields.io/badge/Access-A4373A?logo=microsoft-access&logoColor=white) |
+| **워드프로세서** | ![Word](https://img.shields.io/badge/Word-2B579A?logo=microsoft-word&logoColor=white), ![HWP](https://img.shields.io/badge/HWP-2B579A?logo=&logoColor=white) |
 ###### ⋆ 운전적성정밀검사 합격<br>⋆⋆ 사업용LPG자동차 운전자교육 수료
 
 ### 🧬 기타
