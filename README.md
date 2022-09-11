@@ -38,7 +38,7 @@
 | **화물운송종사자격** | 물건 운반하기 |
 
 ### 🧬 기타
-언어: 🇰🇷 🇬🇧 🇩🇪 🇫🇷 🇮🇹 🇪🇸 (유럽여행 중 국가에 따라 말하는 언어를 바꿀 수 있습니다. 라틴 알파벳을 사용하는 언어를 좋아합니다. 한자를 싫어하지만 한자를 차용한 한국어는 좋아합니다. 한 글자 한 글자마다 담겨있는 큰 힘과 책임감을 믿습니다.)
+언어: 🇰🇷 🇬🇧 🇩🇪 🇫🇷 🇮🇹 🇪🇸 (유럽여행 중 국가에 따라 말하는 언어를 바꿀 수 있습니다. 라틴 알파벳을 사용하는 언어들을 좋아합니다. 한자를 싫어하지만 한자를 차용한 한국어는 좋아합니다.)
 
 멀티미디어: ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Audition-9999FF.svg?logo=Adobe%20Audition&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white) (![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white) 외주 제작경험 다수)
 
