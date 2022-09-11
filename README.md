@@ -1,5 +1,5 @@
 ### Who is this?
-#### art { music, literature, engineering, design }
+## art { music, literature, engineering, design }
 #### 공부하고 연구하는 사람들을 좋아합니다.<br>타인의 연구를 존중하는 사람들을 좋아합니다.<br>자기발전을 하지 않고 제 자리에 머무는 사람을 싫어합니다.
 
 가지고 노는 Arduino Mega의 코드 관리를 위해 GitHub를 사용중입니다.<br>(상용화 및 상업화 가능성이 있어 공개하지 않습니다. 비공개 저장소 활발)<br>
