@@ -7,7 +7,7 @@
 
 ### 🎓 ️교육
 
-###### (대충 학위콜렉터라는 내용의 표)
+###### (대충 학위콜렉터라는 내용의 표1)
 
 | Year | Institution | Degree | Studies |
 | ------- | ------- | ------- | ------- |
@@ -20,9 +20,9 @@
 
 ### 🏆 국가기술자격
 
-###### (대충 자격증콜렉터라는 내용의 표)
 ###### 본캐가 본업을 뛰는 데 이러한 자격들은 아무 짝에도 쓸모가 없지만, 자기만족으로 한계를 뚫고 있으며 실제로 세상을 바라보는 창이 넓어지고 있습니다.
 
+###### (대충 자격증콜렉터라는 내용의 표2)
 | 자격 | 내용 |
 | ------- | ------- |
 | **정보처리기사** | Database (![SQL](https://img.shields.io/badge/SQL-4479A1?logo=SQL&logoColor=white)), Programming (![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white), ![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white), ![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)) |
