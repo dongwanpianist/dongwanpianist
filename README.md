@@ -20,7 +20,7 @@
 
 ### 🏆 국가기술자격
 
-###### 본캐가 본업을 뛰는 데 이러한 자격들은 아무 짝에도 쓸모가 없지만, 자기만족으로 한계를 뚫고 있으며 실제로 세상을 바라보는 창이 넓어지고 있습니다.
+###### 본캐가 본업에 종사하는 데 이러한 자격들은 아무 짝에도 쓸모가 없지만, 자기만족으로 한계를 뚫고 있으며 실제로 세상을 바라보는 창이 넓어지고 있습니다.
 
 ###### (대충 자격증콜렉터라는 내용의 표2)
 | 자격 | 내용 |
@@ -49,5 +49,8 @@
 장난감: ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white) (언어: ![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white)) 그리고 빵판(Breadboard)
 
 봉사: 💖자원봉사 1000 시간 이상(1365 & VMS 합산), 🩸 혈소판혈장 헌혈 60회 이상
+
+PS:
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongwanpianist)](https://solved.ac/dongwanpianist)
 
 **본캐 프로필: [dongwanpianist.com](https://dongwanpianist.com "Official website")**
